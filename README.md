@@ -14,8 +14,8 @@
 
 ### Cipher Implementation 
 
-![](assets/img1.png)
-![](assets/img2.png)
+![](assets/img1.jpg)
+![](assets/img2.jpg)
 
 ### Software Implementing the Cipher
 
